@@ -28,7 +28,7 @@ git clone https://github.com/YourRepo/vulnerable-web-app-setup.git
 cd vulnerable-web-app-setup
 chmod +x setup-vulnerable-apps.sh
 sudo ./setup-vulnerable-apps.sh
-
+```
 
 
 
